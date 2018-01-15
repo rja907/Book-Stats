@@ -1,3 +1,3 @@
 export default function() {
-  return [{ title: 'JS' }, { title: 'HP' }, { title: 'DT' }, { title: 'ER' }];
+  return [{ title: 'JS', pages: 33 }, { title: 'HP', pages: 35 }, { title: 'DT', pages: 37 }, { title: 'ER', pages: 39 }];
 }

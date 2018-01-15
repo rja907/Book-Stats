@@ -1,0 +1,13 @@
+.container{
+  padding-top: 15px;
+  background-color: #43464A;
+}
+.inf{
+  color: white;
+}
+.ini{
+  color: white;
+}
+.list-group{
+  cursor: pointer;
+}
